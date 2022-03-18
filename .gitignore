@@ -160,3 +160,4 @@ cython_debug/
 .env.txt
 .env
 .DS_Store
+DS_Store
