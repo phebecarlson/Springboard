@@ -162,5 +162,5 @@ cython_debug/
 .DS_Store
 DS_Store
 entr_model.png
-Piffle
+Pipfile
 Pipfile.lock
